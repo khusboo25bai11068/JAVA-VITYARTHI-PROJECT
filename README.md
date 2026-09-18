@@ -51,4 +51,7 @@ Run `Main.java` to execute automated test routines[cite: 5]:
 * **Concurrent Licensing Test**: Confirms digital checkouts beyond license limits return `false` safely without race conditions[cite: 5].
 * **Exception Handling Test**: Triggers invalid checkouts to verify `LibraryException` catches errors cleanly without crashing[cite: 5].
 
+## 🖼️ Screenshots
 
+### Terminal Execution Output
+![Terminal Execution Output](Screenshot%202026-09-18%20000520.png)
