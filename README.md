@@ -53,5 +53,7 @@ Run `Main.java` to execute automated test routines[cite: 5]:
 
 ## 🖼️ Screenshots
 
-### Terminal Execution Output
-![Terminal Execution Output](Screenshot%202026-09-18%20000520.png)
+### Terminal Execution & Test Results
+![Terminal Execution Output 1](Screenshot%202026-09-18%20141113.png)
+
+![Terminal Execution Output 2](Screenshot%202026-09-18%20000520.png)
