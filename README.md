@@ -34,3 +34,21 @@ The **Library Management & Resource Allocation System** is a modular Java applic
    ```bash
    git clone [https://github.com/khusboo25bai11068/JAVA-VITYARTHI-PROJECT.git](https://github.com/khusboo25bai11068/JAVA-VITYARTHI-PROJECT.git)
    cd JAVA-VITYARTHI-PROJECT
+
+2. **Compile the Java Source Files**:
+   ```bash
+   javac *.java
+
+3. **Run the Application**:
+   ``` bash
+   java Main
+
+## 🧪 Instructions for Testing
+
+Run `Main.java` to execute automated test routines[cite: 5]:
+
+* **Priority Queue Test**: Verifies Faculty requests automatically jump to the front of reservation queues over Student requests[cite: 5].
+* **Concurrent Licensing Test**: Confirms digital checkouts beyond license limits return `false` safely without race conditions[cite: 5].
+* **Exception Handling Test**: Triggers invalid checkouts to verify `LibraryException` catches errors cleanly without crashing[cite: 5].
+
+
