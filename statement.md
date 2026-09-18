@@ -4,7 +4,7 @@
 Traditional library management tools primarily focus on basic cataloging and manual loan processing. They lack automated mechanisms to resolve high-demand reservation conflicts, handle multi-user concurrent digital asset distribution, and offer personalized resource discovery based on user reading habits. As academic institutions expand both physical and digital collections, an integrated software solution is required to balance resource access, prevent allocation bottlenecks, and streamline operational workflows.
 
 ## 2. 🎯 Scope of the Project
-The **Library Management & Resource Allocation System** is a modular Java desktop application designed to bridge physical and digital resource handling. The system encompasses:
+The **Library Management & Resource Allocation System** is a modular terminal-based Java application designed to bridge physical and digital resource handling. The system encompasses:
 * 📦 Full CRUD operations for physical media and e-resources.
 * ⏳ Automated reservation queues with priority rules for academic personnel.
 * 🔒 Concurrency management for digital media session caps.
